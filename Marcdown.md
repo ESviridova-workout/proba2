@@ -53,8 +53,12 @@
 
 ## Ссылки
 
+[первая лекция по Гиту](https://drive.google.com/file/d/1nNwjqcFmmGmc2yziW1nw9LT8clWiY4iy/view?usp=drive_link)
+
 ## Работа с таблицами
 
 ## Цитаты
+
+## Разное
 
 ## Заключение
